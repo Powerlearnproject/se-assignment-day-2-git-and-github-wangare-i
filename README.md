@@ -6,7 +6,7 @@
   ii) developers can create branches to fix code or experiment without making changes and affecting the main codebase.
   iii)it offers recovery incase of a disaster that caused lose of files.
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
-- sigin into Github or create an account if you dont have one
+- sigin into Github or a create an account if you dont have one
 - Navigate to Your Repositories:
 - create a repository click the button "new"
 - give the repository name and descripition
